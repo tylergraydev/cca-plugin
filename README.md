@@ -89,6 +89,14 @@ Auto-detected and applied:
 - Go
 - C# / .NET
 - Java / Kotlin
+- **Swift / iOS / macOS**
+
+## ☁️ DevOps & Cloud Skills
+
+Also included:
+- **GitHub Actions** - CI/CD workflows, matrix builds, caching, secrets
+- **Vercel** - Deployments, serverless functions, edge config, KV storage
+- **Azure** - DevOps Pipelines, App Service, Functions, AKS, Bicep IaC
 
 ---
 
