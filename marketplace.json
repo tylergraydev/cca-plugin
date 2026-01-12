@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "cca",
+      "description": "Confucius Code Agent - AI software engineering with hierarchical memory, auto-notes, and multi-language support (TypeScript, Python, Swift, Rust, Go, C#, Java) plus DevOps skills (GitHub Actions, Vercel, Azure).",
+      "version": "1.0.0",
+      "repository": "."
+    }
+  ]
+}
