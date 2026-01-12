@@ -1,19 +1,9 @@
 {
   "name": "cca",
-  "description": "Confucius Code Agent - A language-agnostic AI software engineering system with hierarchical memory, persistent note-taking, and adaptive context management. Inspired by Meta/Harvard's CCA research.",
+  "description": "Confucius Code Agent - AI software engineering with hierarchical memory, auto-notes, and multi-language support",
   "version": "1.0.0",
   "author": {
-    "name": "CCA Plugin"
+    "name": "tylergraydev"
   },
-  "homepage": "https://github.com/tylergraydev/cca-plugin",
-  "repository": "https://github.com/tylergraydev/cca-plugin",
-  "license": "MIT",
-  "keywords": [
-    "cca",
-    "confucius",
-    "memory",
-    "notes",
-    "context-management",
-    "multi-language"
-  ]
+  "license": "MIT"
 }
