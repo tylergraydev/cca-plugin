@@ -1,21 +1,19 @@
-
-Copy
-
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "cca-plugin",
+  "name": "cca",
+  "description": "Confucius Code Agent - A language-agnostic AI software engineering system with hierarchical memory, persistent note-taking, and adaptive context management. Inspired by Meta/Harvard's CCA research.",
   "version": "1.0.0",
-  "description": "Confucius Code Agent - AI software engineering with hierarchical memory, auto-notes, and multi-language support",
-  "owner": {
-    "name": "tylergraydev",
-    "email": "tyler@example.com"
+  "author": {
+    "name": "CCA Plugin"
   },
-  "plugins": [
-    {
-      "name": "cca",
-      "description": "Confucius Code Agent with hierarchical memory, auto-notes, and multi-language support (TypeScript, Python, Swift, Rust, Go, C#, Java) plus DevOps skills (GitHub Actions, Vercel, Azure)",
-      "source": "./",
-      "category": "development"
-    }
+  "homepage": "https://github.com/your-username/cca-plugin",
+  "repository": "https://github.com/your-username/cca-plugin",
+  "license": "MIT",
+  "keywords": [
+    "cca",
+    "confucius",
+    "memory",
+    "notes",
+    "context-management",
+    "multi-language"
   ]
 }
