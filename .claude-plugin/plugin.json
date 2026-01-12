@@ -1,14 +1,21 @@
+
+Copy
+
 {
-  "name": "cca-marketplace",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cca-plugin",
+  "version": "1.0.0",
+  "description": "Confucius Code Agent - AI software engineering with hierarchical memory, auto-notes, and multi-language support",
   "owner": {
-    "name": "tylergraydev"
+    "name": "tylergraydev",
+    "email": "tyler@example.com"
   },
   "plugins": [
     {
       "name": "cca",
-      "description": "Confucius Code Agent - AI software engineering with hierarchical memory, auto-notes, and multi-language support.",
-      "version": "1.0.0",
-      "source": "."
+      "description": "Confucius Code Agent with hierarchical memory, auto-notes, and multi-language support (TypeScript, Python, Swift, Rust, Go, C#, Java) plus DevOps skills (GitHub Actions, Vercel, Azure)",
+      "source": "./",
+      "category": "development"
     }
   ]
 }
